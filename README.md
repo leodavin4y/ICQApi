@@ -1,4 +1,4 @@
-# ICQApi
+# ICQApi - PHP7
 Моя попытка сделать класс для работы с icq new bot api.
 
 // Токен брать у @metabot  
